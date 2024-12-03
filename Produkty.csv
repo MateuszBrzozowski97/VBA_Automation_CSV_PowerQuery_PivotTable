@@ -1,0 +1,21 @@
+﻿ID_Zamowienia,DataZam,Produkt,PojemnoscGram,LiczbaSzt,Cena,ID_Sprzedawcy
+1,2024-08-30,Nasiona chia,500,6,15.00,6
+2,2024-11-26,Orzechy brazylijskie,750,6,60.00,4
+3,2024-10-13,Quinoa,1000,9,25.00,3
+4,2024-08-24,Płatki owsiane,1000,2,8.00,5
+5,2024-11-18,Miód naturalny,1000,5,40.00,7
+6,2024-10-19,Masło orzechowe,250,4,12.00,8
+7,2024-09-03,Olej kokosowy,500,3,20.00,2
+8,2024-08-26,Czekolada gorzka,750,7,18.00,1
+9,2024-09-12,Jagody goji,1000,8,50.00,9
+10,2024-11-14,Miód naturalny,500,1,20.00,10
+11,2024-10-02,Orzechy brazylijskie,750,2,60.00,5
+12,2024-11-25,Masło orzechowe,250,6,12.00,6
+13,2024-08-31,Nasiona chia,500,9,15.00,8
+14,2024-09-23,Quinoa,750,4,18.75,7
+15,2024-11-21,Jagody goji,250,5,12.50,3
+16,2024-09-01,Czekolada gorzka,500,8,12.00,4
+17,2024-09-15,Płatki owsiane,750,3,6.00,2
+18,2024-11-10,Olej kokosowy,250,7,10.00,9
+19,2024-08-28,Quinoa,500,10,12.50,1
+20,2024-11-22,Orzechy brazylijskie,1000,5,80.00,6
